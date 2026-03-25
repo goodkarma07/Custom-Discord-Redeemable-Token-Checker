@@ -89,7 +89,7 @@ one proxy per line in `proxies.txt`. if the file is missing or empty, requests g
 ## 🚀 usage
 
 ```bash
-python checker.py
+python main.py
 ```
 
 you'll be asked for one thing at startup:
